@@ -19,4 +19,4 @@ npm run build
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
 ### Matters needing attention
-Netease Cloud Music NodeJS API needs to be run locally.
+[Netease Cloud Music NodeJS API](https://neteasecloudmusicapi.js.org/) needs to be run locally.
